@@ -16,6 +16,7 @@ public class G6 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("diu");
         System.out.println("sad");
     }
     
