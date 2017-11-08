@@ -18,6 +18,7 @@ public class G6 {
         // TODO code application logic here
         System.out.println("diu");
         System.out.println("sad");
+        System.out.println("hasdjbakjsdg");
     }
     
 }
